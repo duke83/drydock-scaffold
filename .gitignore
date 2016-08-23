@@ -1,2 +1,8 @@
 /node_modules/
-/lib/
+
+# comment out /lib/ to get a baseline. I will then develop in the lib version so I
+# don't have to build everytime I make a change (and I don't want to take the time
+# to set up something like nodemon.
+# When I'm ready I will transfer my modifications to the /src/ version of the files
+
+#/lib/
